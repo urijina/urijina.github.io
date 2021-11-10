@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Grenze+Gotisch:wght@900&display=swap');
 body {
     background-image: url("img/imggg.jpg");
-        background-repeat: no-repeat;
-        background-size: 100%;
-        background-color: #000000;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-color: #000000;
 }
 .title {
     font-size: 7rem;
