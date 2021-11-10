@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Grenze+Gotisch:wght@900&display=swap');
+*{
+    background-color: rgb(202, 214, 235);
+}
+.title {
+    font-size: 7rem;
+        text-align: center;
+        font-family: 'Grenze Gotisch', cursive;
+}
+
+#content {
+    margin-left: 2rem;
+    margin-left: 2rem;
+}
+
+.subject {
+    font-size: 2.4rem;
+    text-align: center;
+    font-family: 'Grenze Gotisch', cursive;
+    margin-bottom: 0rem;
+}
+
+.detail {
+    font-size: 1rem;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    font-size: 1rem;
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+}
+
+p {
+    margin-bottom: 0.5rem;
+    margin-top: 0.5rem;
+}
+
+.sector {
+    margin-bottom: 6rem;
+    margin-top: 8rem;
+}
+
+nav {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+
+nav a {
+    font-family: 'Grenze Gotisch', cursive;
+    font-size: 2rem;
+}
